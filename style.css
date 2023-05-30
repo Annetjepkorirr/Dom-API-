@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.colors{
+    background-color: black;
+    margin-top: 10px;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+        /* margin-top: -90px; */
+        color: white;
+    }
+
+.navbar{
+    text-align: center;
+    font-size: 17px;
+
+    
+}
+.logo{
+    color: yellow;
+
+}
+.heading{
+    margin-left: 30px;
+    padding-top: 40px;
+    color: white;
+    
+}
+.icons{
+    margin-left: 1125px;
+    margin-top: -70px;
+    
+}
+/* .iconic{
+    color: white;
+} */
+.user1{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: yellow;
+}
