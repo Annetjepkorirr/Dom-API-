@@ -4,7 +4,7 @@
 }
 .colors{
     background-color: black;
-    /* margin-top: 10px; */
+   
 }
     nav ul li{
         list-style-type: none;
@@ -28,7 +28,6 @@
 }
 .heading{
     margin-left: 30px;
-    /* padding-top: 40px; */
     color: white;
     margin-top: -20px;
   
@@ -154,7 +153,7 @@
     font-size: 18px;
   }
   .person1 img{
-    margin-left: 1050px;
+    margin-left: 1000px;
     margin-top: -600px;
     width: 300px;
     height: 300px;
@@ -195,10 +194,21 @@
 .footer{
     display: flex;
     gap: 140px;
-    /* margin-left: 20px; */
     background-color: black;
     color: white;
     font-size: 19px;
     height: 180px;
     border: solid black;
+}
+.items img{
+    border-radius: 10px;
+    margin-bottom: 1%;
+    border: solid bisque;
+
+}
+#products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
 }

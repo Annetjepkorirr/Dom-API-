@@ -1,0 +1,59 @@
+@media screen and (max-width: 768px) {
+    .navbar {
+      font-size: 14px;
+    }
+  
+    .icons {
+      margin-left: 0;
+    }
+  
+    .bar {
+      margin-left: 0;
+    }
+  
+    .image1 {
+      margin-left: 0;
+    }
+  
+    .aboutus {
+      font-size: 50px;
+      margin-left: 0;
+    }
+  
+    .description {
+      margin-left: 0;
+    }
+  
+    .deals {
+      margin-left: 0;
+      gap: 60px;
+    }
+  
+    .classic {
+      flex-direction: column;
+      gap: 30px;
+    }
+  
+    .person1 img {
+      margin-left: 0;
+      margin-top: 0;
+      width: 200px;
+      height: 200px;
+    }
+  
+    .atest {
+      margin-left: 0;
+      text-align: center;
+    }
+  
+    .footer {
+      flex-direction: column;
+      gap: 20px;
+    }
+  
+    .items img {
+      width: 100%;
+      height: auto;
+      display: grid;
+    }
+  }
